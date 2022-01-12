@@ -1,2 +1,2 @@
 # JS-course
-JavaScript coursе 2020
+JavaScript basic course
